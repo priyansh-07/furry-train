@@ -1,0 +1,1 @@
+This Repository contains the solutions of the problems from [here](https://adriann.github.io/programming_problems.html) aimed at learning Groovy.
